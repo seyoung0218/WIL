@@ -1,3 +1,4 @@
+## CS231n: Convolutional Neural Networks for Visual Recognition
 
 - [Lecture2. Image Classification](https://www.notion.so/Lecture2-Image-Classification-8973d952763345099fb14a0ff659c639)
   - The data-driven approach
