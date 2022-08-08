@@ -1,4 +1,5 @@
 ## CS231n: Convolutional Neural Networks for Visual Recognition
+http://vision.stanford.edu/![image](https://user-images.githubusercontent.com/108501451/183421524-e791e172-e9b6-4a91-a378-302eaf90efbf.png)
 
 - [Lecture2. Image Classification](https://www.notion.so/Lecture2-Image-Classification-8973d952763345099fb14a0ff659c639)
   - The data-driven approach
