@@ -1,7 +1,12 @@
 밑바닥부터 시작하는 딥러닝정리
 - [Chapter2.Perceptron](https://www.notion.so/Chapter2-Perceptron-47e2bde2a18245778cbcd0f1fa44037c)
-  - 2.1퍼셉트론이란?
-  - 2.2단순한 논리 회로
+  - 2.1 퍼셉트론이란?
+  - 2.2 단순한 논리 회로
+  - 2.3 퍼셉트론 구현하기
+  - 2.4 퍼셉트론의 한계
+  - 2.5 다층 퍼셉트론이 충돌한다면
+  - 2.6 NAND에서 컴퓨터까지
+  - 2.7 정리
 - [Chapter3.Neural Network](https://www.notion.so/Chapter3-Neural-Network-670e67b693cf48b697d46cc19e7b13ed)
 - [Chapter4. Neural Network training](https://www.notion.so/Chapter4-Neural-Network-training-9b68c94350f746b096e83a7cf79cca6e)
 - [Chapter5. Backpropagation](https://www.notion.so/Chapter5-Backpropagation-dcc562f87b0a455da43d0a45c87f1ccc)
