@@ -12,3 +12,7 @@
   - Backpropagation
   - Multi-layer Perceptrons
   - The neural viewpoint
+- [Lecture5. Convolutional Neural Networks](https://foul-beechnut-069.notion.site/Lecture5-Convolutional-Neural-Networks-9e4edee56c36462f8540ec1109934c46)
+  - History 
+  - Convolution and pooling 
+  - ConvNets outside vision
