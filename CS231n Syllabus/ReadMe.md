@@ -16,3 +16,10 @@
   - History 
   - Convolution and pooling 
   - ConvNets outside vision
+- [Lecture6. Training Neural Networks, Part 1](https://foul-beechnut-069.notion.site/Lecture6-Training-Neural-Networks-Part-1-1e2e4ba1fc314c2d832ecd917b2a3188)
+  - Activation Functions
+  - Data Preprocessing
+  - Weight Initialization
+  - Batch Normalization
+  - Babysitting the Learning Process
+  - Hyperparameter Optimization
