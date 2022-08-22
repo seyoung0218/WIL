@@ -23,3 +23,7 @@
   - Batch Normalization
   - Babysitting the Learning Process
   - Hyperparameter Optimization
+- [Lecture7. Training Neural Networks, Part 2](https://foul-beechnut-069.notion.site/Lecture7-Training-Neural-Networks-Part-2-e6760f1f7df84bac846412f5cdbe139a)
+  - Optimization
+  - Emsembles
+  - Regularization
