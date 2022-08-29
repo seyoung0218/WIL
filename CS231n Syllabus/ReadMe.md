@@ -27,3 +27,8 @@
   - Optimization
   - Emsembles
   - Regularization
+- [Lecture10. Recurrent Neural Networks](https://foul-beechnut-069.notion.site/Lecture10-Recurrent-Neural-Networks-626a4b3ce9584d8dbcee097899232b59)
+  - RNN
+  - Image Captioning
+  - Image Captioning with Attention
+  - RNN Gradient Flow + LSTM
