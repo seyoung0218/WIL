@@ -6,3 +6,6 @@
   - 2.3 통계 기반 기법
   - 2.4 통계 기반 기법 개선하기
   - 2.5 정리
+
+## 참고문헌
+: https://github.com/WegraLee/deep-learning-from-scratch-2
