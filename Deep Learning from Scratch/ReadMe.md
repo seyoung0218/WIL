@@ -41,3 +41,6 @@
   - 7.6 CNN 시각화하기
   - 7.7 대표적인 CNN
   - 7.8 정리
+  
+  ## 참고문헌
+  : https://github.com/WegraLee/deep-learning-from-scratch
