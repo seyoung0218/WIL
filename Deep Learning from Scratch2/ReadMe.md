@@ -6,7 +6,7 @@
   - 2.3 통계 기반 기법
   - 2.4 통계 기반 기법 개선하기
   - 2.5 정리
-- [Chapter3. word2vec](https://foul-beechnut-069.notion.site/Chapter3-word2vec-b017e0a388d6400180351dc3d018bc7b)\1
+- [Chapter3. word2vec](https://foul-beechnut-069.notion.site/Chapter3-word2vec-b017e0a388d6400180351dc3d018bc7b)
   - 3.1 추론 기반 기법과 신경망
   - 3.2 단순한 word2vec
   - 3.3 학습 데이터 준비
