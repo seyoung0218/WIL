@@ -13,6 +13,12 @@
   - 3.4 CBOW 모델 구현
   - 3.5 word2vec 보충
   - 3.6 정리
+- [Chapter4. word2vec 속도 개선](https://foul-beechnut-069.notion.site/Chapter4-word2vec-4a5e598978384edf8c9312f64d9fac63)
+  - 4.1 word2vec 개선 1️⃣
+  - 4.2 word2vec 개선 2️⃣
+  - 4.3 개선판 word2vec학습
+  - 4.4 word2vec 남은 주제
+  - 4.5 정리
 
 ## 참고문헌
 : https://github.com/WegraLee/deep-learning-from-scratch-2
