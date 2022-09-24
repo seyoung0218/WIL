@@ -34,4 +34,5 @@
   - RNN Gradient Flow + LSTM
   
 
-### Subtitle : https://github.com/visionNoob/CS231N_17_KOR_SUB
+Subtitle : https://github.com/visionNoob/CS231N_17_KOR_SUB
+video : https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
