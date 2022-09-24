@@ -32,3 +32,5 @@
   - Image Captioning
   - Image Captioning with Attention
   - RNN Gradient Flow + LSTM
+  
+  Subtitle : https://github.com/visionNoob/CS231N_17_KOR_SUB
