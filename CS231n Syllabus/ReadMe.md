@@ -27,13 +27,20 @@
   - Optimization
   - Emsembles
   - Regularization
+- [Lecture9. CNN Architectures](https://foul-beechnut-069.notion.site/Lecture9-CNN-Architectures-917e091f40f9462ab6df97682f3bfc0b)
+  - LeNet-5
+  - AlexNet
+  - ZFNet
+  - VGGNet
+  - GoogLeNet
+  - ResNet
+  - Other architectures
 - [Lecture10. Recurrent Neural Networks](https://foul-beechnut-069.notion.site/Lecture10-Recurrent-Neural-Networks-626a4b3ce9584d8dbcee097899232b59)
   - RNN
   - Image Captioning
   - Image Captioning with Attention
   - RNN Gradient Flow + LSTM
-  
-  
+
 Subtitle : https://github.com/visionNoob/CS231N_17_KOR_SUB \
 Video : https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
