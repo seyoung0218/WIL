@@ -4,7 +4,7 @@
   - The data-driven approach
   - K-nearest neighbor
   - Linear classification-1
-- [Lecture3. Loss Functions and Optimization](https://www.notion.so/Lecture3-Loss-Functions-and-Optimization-1da852510c6645fcaf6d908459233ffe)
+- [Lecture3. Loss Functions and Optimization](https://www.notion.so/Lecture3-Loss-Functions-and-Optimization-1da852510c6645fcaf6d908459233ffe) : 발표
   - Linear classification-2
   - Higher-level representations, image features
   - Optimization, stochastic gradient descent
@@ -12,7 +12,7 @@
   - Backpropagation
   - Multi-layer Perceptrons
   - The neural viewpoint
-- [Lecture5. Convolutional Neural Networks](https://foul-beechnut-069.notion.site/Lecture5-Convolutional-Neural-Networks-9e4edee56c36462f8540ec1109934c46)
+- [Lecture5. Convolutional Neural Networks](https://foul-beechnut-069.notion.site/Lecture5-Convolutional-Neural-Networks-9e4edee56c36462f8540ec1109934c46) : 발표
   - History 
   - Convolution and pooling 
   - ConvNets outside vision
@@ -23,7 +23,7 @@
   - Batch Normalization
   - Babysitting the Learning Process
   - Hyperparameter Optimization
-- [Lecture7. Training Neural Networks, Part 2](https://foul-beechnut-069.notion.site/Lecture7-Training-Neural-Networks-Part-2-e6760f1f7df84bac846412f5cdbe139a)
+- [Lecture7. Training Neural Networks, Part 2](https://foul-beechnut-069.notion.site/Lecture7-Training-Neural-Networks-Part-2-e6760f1f7df84bac846412f5cdbe139a) : 발표
   - Optimization
   - Emsembles
   - Regularization
@@ -35,7 +35,7 @@
   - GoogLeNet
   - ResNet
   - Other architectures
-- [Lecture10. Recurrent Neural Networks](https://foul-beechnut-069.notion.site/Lecture10-Recurrent-Neural-Networks-626a4b3ce9584d8dbcee097899232b59)
+- [Lecture10. Recurrent Neural Networks](https://foul-beechnut-069.notion.site/Lecture10-Recurrent-Neural-Networks-626a4b3ce9584d8dbcee097899232b59) : 발표
   - RNN
   - Image Captioning
   - Image Captioning with Attention
