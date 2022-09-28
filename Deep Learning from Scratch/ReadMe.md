@@ -16,7 +16,7 @@
   - 3.5 출력층 설계하기
   - 3.6 손글씨 숫자 인식
   - 3.7 정리
-- [Chapter4. Neural Network training](https://www.notion.so/Chapter4-Neural-Network-training-9b68c94350f746b096e83a7cf79cca6e)
+- [Chapter4. Neural Network training](https://www.notion.so/Chapter4-Neural-Network-training-9b68c94350f746b096e83a7cf79cca6e) : 발표 
   - 4.1 데이터에서 학습한다!
   - 4.2 손실함수
   - 4.3 수치미분
@@ -32,7 +32,7 @@
   - 5.6 Affine/Softmax 계층 구현하기
   - 5.7 오차역전파법 구현하기
   - 5.8 정리
-- [Chapter7. convolutional neural network, CNN](https://www.notion.so/Chapter7-convolutional-neural-network-CNN-ea9194d6ce5d4619a3856fff68446739)
+- [Chapter7. convolutional neural network, CNN](https://www.notion.so/Chapter7-convolutional-neural-network-CNN-ea9194d6ce5d4619a3856fff68446739) : 발표
   - 7.1 전체구조
   - 7.2 합성곱 계층
   - 7.3 풀링계층
