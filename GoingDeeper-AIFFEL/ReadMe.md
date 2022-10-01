@@ -11,12 +11,12 @@
   - 2.LSA와 LDA
   - 3.텍스트 분포를 이용한 비지도 학습 토크나이저
 ### [GD3.워드임베딩](https://foul-beechnut-069.notion.site/GD3-7f00360c6d84425cb08a736e2150ff9d)
-  - 1. Vectorization
-  - 2. 원-핫 인코딩 구현해보기
-  - 3. 워드 임베딩
-  - 4. Word2Vec : 분포 가설
-  - 5. Word2Vec : CBoW
-  - 6. Word2Vec : Skip-gram과 Negative Sampling
-  - 7. Word2Vec : 영어 word2vec실습과 OOV문제
-  - 8. FastText
-  - 9. GloVe(Global Vectors for Word Representation)
+  - 1.Vectorization
+  - 2.원-핫 인코딩 구현해보기
+  - 3.워드 임베딩
+  - 4.Word2Vec : 분포 가설
+  - 5.Word2Vec : CBoW
+  - 6.Word2Vec : Skip-gram과 Negative Sampling
+  - 7.Word2Vec : 영어 word2vec실습과 OOV문제
+  - 8.FastText
+  - 9.GloVe(Global Vectors for Word Representation)
