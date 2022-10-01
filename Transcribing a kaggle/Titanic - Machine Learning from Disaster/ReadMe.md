@@ -4,3 +4,4 @@
 필사 주소
 - https://kaggle-kr.tistory.com/17?category=868316
 - https://kaggle-kr.tistory.com/18?category=868316
+- https://www.kaggle.com/code/ash316/eda-to-prediction-dietanic/notebook
