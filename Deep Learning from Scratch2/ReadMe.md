@@ -19,6 +19,13 @@
   - 4.3 개선판 word2vec학습
   - 4.4 word2vec 남은 주제
   - 4.5 정리
+- [Chapter5. 순환 신경망(RNN)](https://foul-beechnut-069.notion.site/Chapter5-RNN-bb66d19e129a43caba1027ae7a19ae30)
+  - 5.1 확률과 언어 모델
+  - 5.2 RNN이란
+  - 5.3 RNN 구현
+  - 5.4 시계열 데이터 처리 계층 구현
+  - 5.5 RNNLM 학습과 평가
+  - 5.6 정리
 
 ## 참고문헌
 : https://github.com/WegraLee/deep-learning-from-scratch-2
