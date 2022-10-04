@@ -26,6 +26,13 @@
   - 5.4 시계열 데이터 처리 계층 구현
   - 5.5 RNNLM 학습과 평가
   - 5.6 정리
+- [Chapter6. 게이트가 추가된 RNN](https://foul-beechnut-069.notion.site/Chapter6-RNN-9a5434e0807a49268e2d1fd5fe416744)
+  - 6.1 RNN의 문제점
+  - 6.2 기울기 소실과 LSTM
+  - 6.3 LSTM 구현
+  - 6.4 LSTM을 사용한 언어 모델
+  - 6.5 RNNLM 추가 개선
+  - 6.6 정리
 
 ## 참고문헌
 : https://github.com/WegraLee/deep-learning-from-scratch-2
