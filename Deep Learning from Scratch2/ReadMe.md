@@ -33,6 +33,13 @@
   - 6.4 LSTM을 사용한 언어 모델
   - 6.5 RNNLM 추가 개선
   - 6.6 정리
-
+- [Chapter7. RNN을 사용한 문장 생성](https://foul-beechnut-069.notion.site/Chapter7-RNN-034b2306113b41ccbcc9fad489032786)
+  - 7.1 언어 모델을 사용한 문장 생성
+  - 7.2 seq2seq
+  - 7.3 seq2seq 구현
+  - 7.4 seq2seq 개선
+  - 7.5 seq2seq를 이용하는 애플리케이션
+  - 7.6 정리
+  
 ## 참고문헌
 : https://github.com/WegraLee/deep-learning-from-scratch-2
