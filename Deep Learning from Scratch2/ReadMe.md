@@ -40,6 +40,12 @@
   - 7.4 seq2seq 개선
   - 7.5 seq2seq를 이용하는 애플리케이션
   - 7.6 정리
+- [Chapter8. Attention](https://foul-beechnut-069.notion.site/Chapter8-Attention-3bcaf35070da4a8bbd89b70504929160)
+  - 8.1 어텐션의 구조
+  - 8.2 어텐션 평가 
+  - 8.3 어텐션에 관한 남은 이야기
+  - 8.4 어텐션 응용
+  - 8.5 정리
   
 ## 참고문헌
 : https://github.com/WegraLee/deep-learning-from-scratch-2
