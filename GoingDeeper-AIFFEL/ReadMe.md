@@ -20,3 +20,14 @@
   - 7.Word2Vec : 영어 word2vec실습과 OOV문제
   - 8.FastText
   - 9.GloVe(Global Vectors for Word Representation)
+### [GD5.Transformer가 나오기까지](https://foul-beechnut-069.notion.site/GD5-Transformer-21bd28eecaa34f0cba83a5e2abd7440a)
+  - 1. Attention의 역사
+  - 2. Positional Encoding
+  - 3. Multi-Head Attention
+### [GD6.기계 번역이 걸어온 길](https://foul-beechnut-069.notion.site/GD6-4b6980b12b89490186e965f8bf80f9ae)
+  - 1. 번역의 흐름
+  - 2. 문장 생성 방식
+  - 3. Data Augmentation
+  - 4. 성능 평가 지표, BLEU score
+  - 5. 챗봇과 번역기
+  - 6. 좋은 챗봇이 되려면
