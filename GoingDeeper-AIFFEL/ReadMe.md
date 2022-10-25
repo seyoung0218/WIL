@@ -31,3 +31,12 @@
   - 성능 평가 지표, BLEU score
   - 챗봇과 번역기
   - 좋은 챗봇이 되려면
+### [GD7.modern NLP의 흐름에 올라타보자.](https://foul-beechnut-069.notion.site/GD7-modern-NLP-65e0743add6e4478b4c378c347818ba8)
+  - ELMo(Embedding from Language Models)
+  - GPT(Generative Pre-Training Transformer)
+  - Transformer-XL(Transformer Extra Long)
+  - XLNet, BART
+  - ALBERT(A Lite BERT for Self-supervised Learning of Language Representations)
+  - T5(Text-to-Text Transfer Transformer)
+  - Switch Transformer
+  - ERNIE
