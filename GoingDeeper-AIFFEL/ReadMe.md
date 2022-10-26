@@ -40,3 +40,11 @@
   - T5(Text-to-Text Transfer Transformer)
   - Switch Transformer
   - ERNIE
+### [GD8.NLP Framework의 활용](https://foul-beechnut-069.notion.site/GD8-NLP-Framework-93993b869d9740c3885dd008707a6f6b)
+  - 다양한 NLP Framework
+  - Huggingface transformers 개요
+  - Huggingface transformers : Model
+  - Huggingface transformers : Tokenizer
+  - Huggingface transformers : Processor
+  - Huggingface transformers : Config
+  - Huggingface transformers : Trainer
