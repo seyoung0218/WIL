@@ -8,3 +8,7 @@
 - [Chapter03. 명령어](https://foul-beechnut-069.notion.site/Chapter03-b070e84c9e284616af39146443a24d77)
   - 3-1 소스코드와 명령어
   - 3-2 명령어의 구조
+- [Chapter04. CPU의 작동원리](https://foul-beechnut-069.notion.site/Chapter04-CPU-48ab61b73f25453da9bce47f54b80f24)
+  - 4-1 ALU와 제어장치
+  - 4-2 레지스터
+  - 4-3 명령어 사이클과 인터럽트
