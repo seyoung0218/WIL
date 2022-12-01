@@ -12,3 +12,7 @@
   - 4-1 ALU와 제어장치
   - 4-2 레지스터
   - 4-3 명령어 사이클과 인터럽트
+- [Chapter05. CPU 성능 향상 기법](https://foul-beechnut-069.notion.site/Chapter05-CPU-b83d8b0d669d40a5aa887bef8b5c4bd1)
+  - 5-1 빠른 CPU를 위한 설계 기법
+  - 5-2 명령어 병렬 처리 기법
+  - 5-3 CISC와 RISC
