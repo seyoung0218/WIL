@@ -16,3 +16,7 @@
   - 5-1 빠른 CPU를 위한 설계 기법
   - 5-2 명령어 병렬 처리 기법
   - 5-3 CISC와 RISC
+- [Chapter06. 메모리와 캐시 메모리](https://foul-beechnut-069.notion.site/Chapter06-4a492e4ccef2412fad083921ce8c2213)
+  - 6-1 RAM의 특징과 종류
+  - 6-2 메모리의 주소 공간
+  - 6-3 캐시 메모리
