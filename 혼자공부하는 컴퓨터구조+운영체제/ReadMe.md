@@ -20,3 +20,6 @@
   - 6-1 RAM의 특징과 종류
   - 6-2 메모리의 주소 공간
   - 6-3 캐시 메모리
+- [Chapter07. 보조기억장치](https://foul-beechnut-069.notion.site/Chapter07-02c136c1d0f84dec860c0cebc5265473)
+  - 7-1 다양한 보조기억장치
+  - 7-2 RAID의 정의와 종류
