@@ -23,3 +23,6 @@
 - [Chapter07. 보조기억장치](https://foul-beechnut-069.notion.site/Chapter07-02c136c1d0f84dec860c0cebc5265473)
   - 7-1 다양한 보조기억장치
   - 7-2 RAID의 정의와 종류
+- [Chapter08. 입출력장치](https://foul-beechnut-069.notion.site/Chapter08-87e1468439ec4e8b95952cf641cfbbf0)
+  - 8-1 장치 컨트롤러와 장치 드라이버
+  - 8-2 다양한 입출력 방법
