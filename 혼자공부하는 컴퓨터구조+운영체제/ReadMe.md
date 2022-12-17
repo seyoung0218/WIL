@@ -26,3 +26,6 @@
 - [Chapter08. 입출력장치](https://foul-beechnut-069.notion.site/Chapter08-87e1468439ec4e8b95952cf641cfbbf0)
   - 8-1 장치 컨트롤러와 장치 드라이버
   - 8-2 다양한 입출력 방법
+- [Chapter09 운영체제 시작하기](https://foul-beechnut-069.notion.site/Chapter01-6a4b70ba01ea4464a30f251562aa2885)
+  - 9-1 운영체제를 알아야 하는 이유
+  - 9-2 운영체제의 큰 그림
