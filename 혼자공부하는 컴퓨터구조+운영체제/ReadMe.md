@@ -26,10 +26,13 @@
 - [Chapter08. 입출력장치](https://foul-beechnut-069.notion.site/Chapter08-87e1468439ec4e8b95952cf641cfbbf0)
   - 8-1 장치 컨트롤러와 장치 드라이버
   - 8-2 다양한 입출력 방법
-- [Chapter09 운영체제 시작하기](https://foul-beechnut-069.notion.site/Chapter01-6a4b70ba01ea4464a30f251562aa2885)
+- [Chapter09. 운영체제 시작하기](https://foul-beechnut-069.notion.site/Chapter01-6a4b70ba01ea4464a30f251562aa2885)
   - 9-1 운영체제를 알아야 하는 이유
   - 9-2 운영체제의 큰 그림
 - [Chapter10. 프로세스와 스레드](https://foul-beechnut-069.notion.site/Chapter10-f3838ee441b845b78c100b8235b89352)
   - 10-1 프로세스 개요
   - 10-2 프로세스 상태와 계층 구조
   - 10-3 스레드
+- [Chapter11. CPU 스케줄링](https://foul-beechnut-069.notion.site/Chapter11-CPU-096a6531e8c54653a5da281136d4df12)
+  - 11-1 CPU 스케줄링 개요
+  - 11-2 CPU 스케줄링 알고리즘
