@@ -29,3 +29,7 @@
 - [Chapter09 운영체제 시작하기](https://foul-beechnut-069.notion.site/Chapter01-6a4b70ba01ea4464a30f251562aa2885)
   - 9-1 운영체제를 알아야 하는 이유
   - 9-2 운영체제의 큰 그림
+- [Chapter10. 프로세스와 스레드](https://foul-beechnut-069.notion.site/Chapter10-f3838ee441b845b78c100b8235b89352)
+  - 10-1 프로세스 개요
+  - 10-2 프로세스 상태와 계층 구조
+  - 10-3 스레드
