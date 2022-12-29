@@ -36,3 +36,6 @@
 - [Chapter11. CPU 스케줄링](https://foul-beechnut-069.notion.site/Chapter11-CPU-096a6531e8c54653a5da281136d4df12)
   - 11-1 CPU 스케줄링 개요
   - 11-2 CPU 스케줄링 알고리즘
+- [Chapter12. 프로세스 동기화](https://foul-beechnut-069.notion.site/Chapter12-b9728639963843848dd9bd4a2d04684f)
+  - 12-1 동기화란
+  - 12-2 동기화 기법
