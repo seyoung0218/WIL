@@ -39,3 +39,6 @@
 - [Chapter12. 프로세스 동기화](https://foul-beechnut-069.notion.site/Chapter12-b9728639963843848dd9bd4a2d04684f)
   - 12-1 동기화란
   - 12-2 동기화 기법
+- [Chapter13. 교착 상태](https://foul-beechnut-069.notion.site/Chapter13-3f8e43a4c2944df492776c0bf09d1f6a)
+  - 13-1 교착 상태란
+  - 13-2 교착 상태 해결 방법
