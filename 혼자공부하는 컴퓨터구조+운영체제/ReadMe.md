@@ -42,3 +42,7 @@
 - [Chapter13. 교착 상태](https://foul-beechnut-069.notion.site/Chapter13-3f8e43a4c2944df492776c0bf09d1f6a)
   - 13-1 교착 상태란
   - 13-2 교착 상태 해결 방법
+- [Chapter14. 가상 메모리](https://foul-beechnut-069.notion.site/Chapter14-dc13be4cae3c4bc9b084a3fffc2a9905)
+  - 14-1 연속 메모리 할당
+  - 14-2 페이징을 통한 가상 메모리 관리
+  - 14-3 페이지 교체와 프레임 할당
